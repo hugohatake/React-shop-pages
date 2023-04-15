@@ -15,6 +15,7 @@ import '../styles/global.css';
 
 const App = () => {
   return (
+    
     <BrowserRouter>
       <Layout>
         <Routes>
